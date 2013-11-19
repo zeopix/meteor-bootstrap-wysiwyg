@@ -1,8 +1,8 @@
 {
-    "name": "bootstrap-wysiwyg",
-    "description": "Bootstrap-based wysiwyg HTML editor",
-    "homepage": "https://github.com/mcrider/meteor-bootstrap-wysiwyg",
-    "author": "Matt Crider (http://matthewcrider.com)",
+    "name": "bootstrap-wysiwyg-f",
+    "description": "Bootstrap-based wysiwyg HTML editor Fork",
+    "homepage": "https://github.com/zeopix/meteor-bootstrap-wysiwyg",
+    "author": "Iván Guillén",
     "version": "0.1.0",
-    "git": "https://github.com/mcrider/meteor-bootstrap-wysiwyg.git"
+    "git": "https://github.com/zeopix/meteor-bootstrap-wysiwyg.git"
 }
